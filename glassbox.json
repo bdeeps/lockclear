@@ -1,0 +1,106 @@
+{
+  "slug": "lockclear",
+  "box": 133,
+  "date": "2026-10-08",
+  "title": "LockClear",
+  "question": "How does a lock work?",
+  "hook": "Slide a key into a lock cut in half and watch five tiny pin stacks rise to one line. Cut your own key, count the million possible codes, throw a deadbolt, and see what levers, dials and chips do instead.",
+  "thumbText": "HOW A LOCK WORKS",
+  "field": "machines",
+  "minutes": 14,
+  "tags": [
+    "lock",
+    "key",
+    "pin tumbler",
+    "deadbolt",
+    "padlock",
+    "lever lock",
+    "combination lock",
+    "smart lock",
+    "security",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "A plug that is pinned in place",
+      "text": "Most door locks are pin-tumbler cylinders. A round plug sits inside a fixed shell, and turning the plug moves the bolt. Five spring-loaded stacks of pins sit in holes drilled through both. With no key, a driver pin in every stack lies across the gap between plug and shell, so the plug cannot turn."
+    },
+    {
+      "title": "The right key lines up every stack",
+      "text": "Each cut in the key holds one stack at a set height. With the right key, the break between the key pin and the driver pin in every stack lands exactly at the gap, called the shear line. Nothing crosses it, so the plug turns. One cut off by about half a millimetre leaves one pin across the gap, and the lock stays shut."
+    },
+    {
+      "title": "A code with thousands of answers",
+      "text": "The depths of the cuts are a code. Five pins with six depths give 6 × 6 × 6 × 6 × 6 = 7,776 keys on paper, and six pins with ten depths give a million. More depths need smaller steps, and so tighter machining. Small errors in manufacture are what lock picking takes advantage of, which is why better locks use tighter tolerances, more pins and security pins."
+    },
+    {
+      "title": "The bolt does the holding",
+      "text": "The cylinder only decides who may turn it. A tailpiece on the back of the plug swings a crank that slides a deadbolt about 25 mm into the door frame. A deadbolt has a square end and no spring, so pushing on it does nothing. A spring latch has a sloped face that lets a door click shut, which also makes it weaker. In a padlock, a cam holds two steel balls in notches in the shackle."
+    },
+    {
+      "title": "Levers, wards and wafers",
+      "text": "A lever lock, the kind in a steel almirah, lifts flat levers until a slot in each lines up for a peg on the bolt. A warded lock only blocks keys that hit its fixed ridges, so it protects little. A wafer lock, common in drawers and cars, uses one-piece wafers that must sit flush with the plug."
+    },
+    {
+      "title": "No key at all",
+      "text": "A combination dial parks three notched wheels one at a time until a bar can drop into all three notches. Electronic locks check a code, a card, a fingerprint or a phone with a chip, then a small motor or solenoid moves the same kind of steel bolt."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Pin tumbler lock",
+      "def": "A lock in which spring-loaded stacks of pins stop a plug from turning until the right key lines them up."
+    },
+    {
+      "term": "Plug",
+      "def": "The round core of a lock cylinder that the key goes into. It is the part that turns."
+    },
+    {
+      "term": "Shear line",
+      "def": "The gap between the plug and the shell. The plug turns only when no pin crosses it."
+    },
+    {
+      "term": "Key pin and driver pin",
+      "def": "The lower and upper pins in each stack. The key sets the height of the break between them."
+    },
+    {
+      "term": "Bitting",
+      "def": "The list of cut depths along a key, such as 3-5-2-6-4. It is the key's code."
+    },
+    {
+      "term": "Tolerance",
+      "def": "How far a made part may be from its drawn size. Tighter tolerances make a lock harder to fool."
+    },
+    {
+      "term": "Deadbolt",
+      "def": "A solid bolt with a square end and no spring, moved only by turning the cylinder or a thumb-turn."
+    },
+    {
+      "term": "Lever lock",
+      "def": "A lock in which the key lifts flat levers until a gate in each lines up with a stump on the bolt."
+    },
+    {
+      "term": "Combination lock",
+      "def": "A lock opened by turning notched wheels to the right positions instead of using a key."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "lockclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}

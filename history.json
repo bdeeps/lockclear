@@ -1,0 +1,931 @@
+{
+  "title": "The history of the lock",
+  "tagline": "4,000 years from a wooden bolt with falling pins to a door that opens for your phone.",
+  "intro": "For most of history a lock was a bar across a door and a trick for moving it from outside. The Egyptians used falling wooden pins, and the Romans added metal and wards. Then, in a few decades around 1800, English inventors made locks that measured the key, and dared the world to beat them. An American did, in 1851. Factory-made Yale cylinders then put a good lock on every door, towns like Aligarh and Dindigul locked India's, and today the key itself is turning into a code.",
+  "eras": [
+    {
+      "id": "ancient",
+      "name": "Wood, bronze and wards",
+      "from": -2000,
+      "to": 1770,
+      "color": "#c49bff",
+      "summary": "Wooden bolts held by falling pins, then metal locks whose fixed wards block the wrong key. They stop the casual and the honest, but they do not really measure the key."
+    },
+    {
+      "id": "duel",
+      "name": "The unpickable lock",
+      "from": 1770,
+      "to": 1860,
+      "color": "#ffb547",
+      "summary": "English inventors build locks that check each part of the key exactly, offer prizes to anyone who can beat them, and are humbled at the Great Exhibition."
+    },
+    {
+      "id": "factory",
+      "name": "A lock on every door",
+      "from": 1840,
+      "to": 1960,
+      "color": "#ff7a59",
+      "summary": "The Yales shrink the pin lock into a cylinder with a flat key. Factories in America and Europe, and workshops in Aligarh, Dindigul and Bombay, make locks by the million."
+    },
+    {
+      "id": "electronic",
+      "name": "Keys become codes",
+      "from": 1960,
+      "to": 2026,
+      "color": "#5ce1a9",
+      "summary": "Cards with holes, then magnetic stripes, radio chips, fingerprints and phones take over from cut metal, while a steel bolt still does the holding."
+    }
+  ],
+  "events": [
+    {
+      "year": -2000,
+      "date": "c. 2000 BCE",
+      "era": "ancient",
+      "art": "block",
+      "key": true,
+      "title": "A wooden bolt with falling pins",
+      "who": "Egyptian carpenters",
+      "where": "Egypt",
+      "country": "Egypt",
+      "text": "The basic idea of the pin lock may go back about 4,000 years in Egypt. A wooden bolt slid into a post on the door. Loose wooden pins dropped into holes in the bolt and held it. The key was a wooden bar with pegs that lifted the pins clear.",
+      "why": "Pins that fall across a gap, and a key that lifts them out: the idea inside a modern door lock is this old.",
+      "box": "anatomy",
+      "sources": [
+        1,
+        13
+      ]
+    },
+    {
+      "year": -710,
+      "date": "c. 721–705 BCE",
+      "era": "ancient",
+      "art": "building",
+      "title": "The lock at Khorsabad",
+      "who": "Builders of Sargon II's palace",
+      "where": "Khorsabad, near Nineveh (today Iraq)",
+      "country": "Iraq",
+      "text": "An early wooden pin lock was found in the ruins of the palace of Khorsabad, built for the Assyrian king Sargon II. It is often called the oldest known lock. Accounts of its age vary, and some writers put this kind of lock much earlier.",
+      "why": "It is the oldest lock of this kind that anyone has dug up.",
+      "sources": [
+        1,
+        36,
+        0
+      ]
+    },
+    {
+      "year": 50,
+      "date": "c. 1st century BCE to 4th century CE",
+      "era": "ancient",
+      "art": "hammer",
+      "key": true,
+      "title": "Romans make locks of metal",
+      "who": "Roman smiths",
+      "where": "Roman Empire",
+      "country": "Italy",
+      "text": "The Romans are credited with metal locks and keys, and with wards: fixed ridges inside the lock that only a key with matching notches can pass. Their keys were small enough to wear as finger rings, since Roman clothes had no pockets.",
+      "why": "Metal made locks small and strong, and wards stayed the usual protection for more than a thousand years.",
+      "box": "others",
+      "sources": [
+        0,
+        2,
+        35
+      ]
+    },
+    {
+      "year": 100,
+      "date": "25–220 CE",
+      "era": "ancient",
+      "art": "spring2",
+      "title": "Spring padlocks in Han China",
+      "who": "Chinese metalworkers",
+      "where": "China",
+      "country": "China",
+      "text": "Padlocks were made in China during the Eastern Han dynasty, in bronze, brass and silver. Many worked with splitting springs: leaf springs that fan out inside the case and are squeezed flat by the key. Roman-era padlocks are known from Europe too.",
+      "why": "A lock you can carry and hang on anything was invented more than once.",
+      "sources": [
+        3
+      ]
+    },
+    {
+      "year": 880,
+      "date": "c. 870–900",
+      "era": "ancient",
+      "art": "wrench",
+      "title": "All-metal locks in England",
+      "who": "English craftsmen (attributed)",
+      "where": "England",
+      "country": "United Kingdom",
+      "text": "The first all-metal locks are attributed to English craftsmen at the end of the 9th century. Through the Middle Ages, warded locks grew ever more elaborate, especially in monasteries, which had the money and the time.",
+      "why": "More wards looked impressive, but they did not make the lock measure the key.",
+      "sources": [
+        0,
+        2
+      ]
+    },
+    {
+      "year": 1206,
+      "date": "1206",
+      "era": "ancient",
+      "art": "compass",
+      "title": "Al-Jazari describes a combination lock",
+      "who": "Ismail al-Jazari",
+      "where": "Diyar Bakr (today Turkey)",
+      "country": "Turkey",
+      "text": "In his Book of Knowledge of Ingenious Mechanical Devices, the engineer al-Jazari described a combination lock among his fifty machines. The oldest combination lock found so far is older still: it came from a Roman-period tomb in Athens.",
+      "why": "A lock with no key at all, opened by knowing something instead of holding something.",
+      "box": "nokey",
+      "sources": [
+        5,
+        4
+      ]
+    },
+    {
+      "year": 1605,
+      "date": "c. 1605",
+      "era": "ancient",
+      "art": "mountain",
+      "title": "A fort lock in Dindigul",
+      "who": "Dindigul locksmiths",
+      "where": "Dindigul, Tamil Nadu",
+      "country": "India",
+      "text": "The hill fort at Dindigul was built in 1605 under the Madurai Nayak king Muthu Krishnappa Nayak. A working lock from the fort is cited as evidence that the town's lock craft is at least 400 years old. Organised workshops are usually dated to about 150 years ago.",
+      "why": "It is the root of one of India's two great lock-making towns.",
+      "sources": [
+        24,
+        25
+      ]
+    },
+    {
+      "year": 1778,
+      "date": "1778",
+      "era": "duel",
+      "art": "gear",
+      "key": true,
+      "title": "Barron's double-acting lever",
+      "who": "Robert Barron",
+      "where": "London, England",
+      "country": "United Kingdom",
+      "text": "Robert Barron patented a lock whose tumblers had to be lifted to exactly the right height. Lift one too little and it blocked the bolt. Lift it too far and it blocked the bolt again.",
+      "why": "For the first time a lock measured the key instead of merely getting in its way.",
+      "box": "others",
+      "sources": [
+        7,
+        6
+      ]
+    },
+    {
+      "year": 1784,
+      "date": "21 August 1784",
+      "era": "duel",
+      "art": "scroll",
+      "title": "Bramah's safety lock",
+      "who": "Joseph Bramah",
+      "where": "London, England",
+      "country": "United Kingdom",
+      "text": "Joseph Bramah patented a lock worked by a small tube-shaped key with notches of different depths, which pushed a ring of sliders to the right positions. To make its tiny parts alike, Bramah and the young Henry Maudslay built special machine tools.",
+      "why": "Making locks pushed forward the precise machine tools that later built the industrial world.",
+      "sources": [
+        8,
+        0
+      ]
+    },
+    {
+      "year": 1790,
+      "date": "1790",
+      "era": "duel",
+      "art": "trophy",
+      "key": true,
+      "title": "The Challenge Lock goes in the window",
+      "who": "Joseph Bramah",
+      "where": "Piccadilly, London, England",
+      "country": "United Kingdom",
+      "text": "Bramah put a lock in his shop window with a notice offering 200 guineas to anyone who could make a tool to open it. It sat there unbeaten for more than sixty years. The lock is now in the Science Museum in London.",
+      "why": "It made lock security a public contest, and made 'unpickable' a selling point.",
+      "sources": [
+        8,
+        0
+      ]
+    },
+    {
+      "year": 1805,
+      "date": "1805",
+      "era": "duel",
+      "art": "wrench",
+      "title": "A double-acting pin lock",
+      "who": "Abraham O. Stansbury",
+      "where": "England",
+      "country": "United Kingdom",
+      "text": "The earliest patent for a double-acting pin-tumbler lock was granted in England to Abraham O. Stansbury.",
+      "why": "It joined Barron's rule, not too low and not too high, to the ancient pin idea.",
+      "sources": [
+        1
+      ]
+    },
+    {
+      "year": 1818,
+      "date": "1818",
+      "era": "duel",
+      "art": "boat",
+      "key": true,
+      "title": "Chubb's detector lock",
+      "who": "Jeremiah Chubb",
+      "where": "Portsmouth, England",
+      "country": "United Kingdom",
+      "text": "After a burglary with false keys at Portsmouth Dockyard in 1817, the government offered £100 for a lock that only its own key could open. Jeremiah Chubb's lever lock won. If any lever was lifted too high, the lock jammed, so the owner knew that someone had tried it.",
+      "why": "It was a lock that told on anyone who tampered with it, and it founded the Chubb company.",
+      "box": "others",
+      "sources": [
+        9,
+        10,
+        0
+      ]
+    },
+    {
+      "year": 1844,
+      "date": "13 June 1844",
+      "era": "factory",
+      "art": "spring2",
+      "key": true,
+      "title": "Yale's pin-tumbler lock",
+      "who": "Linus Yale Sr.",
+      "where": "Springfield, Massachusetts and Newport, New York",
+      "country": "United States",
+      "text": "Linus Yale Sr., a maker of bank locks, received US patent 3,630 for a pin-tumbler safe lock. Many histories give 1848 as the year he invented the modern pin tumbler.",
+      "why": "The Egyptian pin idea came back in precise metal.",
+      "box": "anatomy",
+      "sources": [
+        12,
+        1
+      ]
+    },
+    {
+      "year": 1851,
+      "date": "Summer 1851",
+      "era": "duel",
+      "art": "person",
+      "key": true,
+      "title": "The Great Lock Controversy",
+      "who": "Alfred Charles Hobbs",
+      "where": "Great Exhibition, London, England",
+      "country": "United Kingdom",
+      "text": "The American locksmith A. C. Hobbs came to the Great Exhibition to sell his firm's locks. He opened a Chubb detector lock in about 25 minutes. Then he opened Bramah's Challenge Lock after some 51 hours of work spread over 16 days. Britain's two most trusted locks had fallen in one summer. At the same exhibition, a secure case built by Chubb displayed the Koh-i-Noor diamond.",
+      "why": "It taught makers and the public that no lock is perfect, only harder or easier.",
+      "sources": [
+        11,
+        8,
+        39,
+        37,
+        10
+      ]
+    },
+    {
+      "year": 1857,
+      "date": "1857",
+      "era": "factory",
+      "art": "magnet",
+      "title": "A combination lock you can reset",
+      "who": "James Sargent",
+      "where": "United States",
+      "country": "United States",
+      "text": "James Sargent designed his Magnetic Bank Lock, described as the first successful key-changeable combination lock. The owner could set a new combination without taking the lock apart. In 1865 he and Halbert Greenleaf founded Sargent and Greenleaf.",
+      "why": "Banks could now change the secret whenever a clerk left.",
+      "box": "nokey",
+      "sources": [
+        14,
+        15
+      ]
+    },
+    {
+      "year": 1861,
+      "date": "1861–1865",
+      "era": "factory",
+      "art": "gear",
+      "key": true,
+      "title": "The flat key and the cylinder",
+      "who": "Linus Yale Jr.",
+      "where": "Shelburne Falls, Massachusetts",
+      "country": "United States",
+      "text": "Linus Yale Jr., who had trained as a portrait painter, redesigned his father's lock. He put the pins in a small cylinder and worked them with a thin flat key with a serrated edge. His patents of 1861 and 1865 describe the lock still fitted to most doors.",
+      "why": "The small flat key in your pocket dates from here.",
+      "box": "key",
+      "sources": [
+        13,
+        1
+      ]
+    },
+    {
+      "year": 1868,
+      "date": "1868",
+      "era": "factory",
+      "art": "building",
+      "title": "Yale and Towne set up in Stamford",
+      "who": "Linus Yale Jr. and Henry R. Towne",
+      "where": "Stamford, Connecticut",
+      "country": "United States",
+      "text": "Yale and the engineer Henry Towne founded the Yale Lock Manufacturing Company to make cylinder locks in quantity. Yale died of a heart attack on 25 December that year, aged 47. Also in 1868, Philo Felter patented the wafer-tumbler lock in the United States.",
+      "why": "Factory-made cylinders turned good locks from a luxury into an everyday thing.",
+      "sources": [
+        13,
+        16
+      ]
+    },
+    {
+      "year": 1870,
+      "date": "1870 to 1890",
+      "era": "factory",
+      "art": "hammer",
+      "key": true,
+      "title": "Aligarh becomes the city of locks",
+      "who": "Johnson and Co. and Aligarh's metalworkers",
+      "where": "Aligarh, Uttar Pradesh",
+      "country": "India",
+      "text": "A British firm, Johnson and Co., began importing English locks to sell at Aligarh in 1870. By 1890 it was making them locally, using the town's skilled metalworkers. A government workshop to train lock-makers followed in 1926, by when records put output at about 500,000 locks a year.",
+      "why": "Aligarh, known as Tala Nagari, became the centre of lock-making in India.",
+      "box": "others",
+      "sources": [
+        22,
+        23
+      ]
+    },
+    {
+      "year": 1874,
+      "date": "26 May 1874",
+      "era": "factory",
+      "art": "metronome",
+      "title": "A lock that obeys the clock",
+      "who": "James Sargent",
+      "where": "Morrison, Illinois",
+      "country": "United States",
+      "text": "Sargent built a time lock from lock parts and two eight-day kitchen clocks in 1873, by his company's account. In May 1874 he fitted it to the vault of the First National Bank of Morrison. Until the clocks ran down, nobody could open the door, even with the right combination.",
+      "why": "Robbers could no longer force a banker to open the vault at night.",
+      "sources": [
+        15,
+        38
+      ]
+    },
+    {
+      "year": 1897,
+      "date": "7 May 1897",
+      "era": "factory",
+      "art": "wrench",
+      "key": true,
+      "title": "Godrej starts with locks",
+      "who": "Ardeshir Godrej",
+      "where": "Bombay (now Mumbai)",
+      "country": "India",
+      "text": "Ardeshir Godrej, a lawyer turned inventor, began making locks in a small shed near the Bombay Gas Works. He sold high-security lever locks under the Anchor brand. In 1908 he and his brother Pirojsha applied for a patent on a lock without springs, granted in 1909.",
+      "why": "It was the start of one of India's best-known manufacturers, and of well-made Indian locks.",
+      "sources": [
+        20,
+        41
+      ]
+    },
+    {
+      "year": 1907,
+      "date": "1907",
+      "era": "factory",
+      "art": "gear",
+      "title": "The disc lock from Finland",
+      "who": "Emil Henriksson",
+      "where": "Finland",
+      "country": "Finland",
+      "text": "While repairing a cash register, the mechanic Emil Henriksson saw that its rotating discs could make a lock. In his design the key turns a row of discs until a notch in each lines up for a bar to drop in. It was made under the Abloy name from 1918.",
+      "why": "With no springs to freeze or clog, it suits padlocks and outdoor locks in harsh weather.",
+      "box": "others",
+      "sources": [
+        17
+      ]
+    },
+    {
+      "year": 1910,
+      "date": "1 February 1910",
+      "era": "factory",
+      "art": "compass",
+      "title": "The one-dial padlock",
+      "who": "John Junkunc",
+      "where": "United States",
+      "country": "United States",
+      "text": "John Junkunc patented what is described as the first commercially viable single-dial combination lock, the ancestor of the dial padlock on school and gym lockers.",
+      "why": "The safe's wheel pack shrank to fit in a pocket.",
+      "box": "nokey",
+      "sources": [
+        4
+      ]
+    },
+    {
+      "year": 1921,
+      "date": "1921",
+      "era": "factory",
+      "art": "plate",
+      "title": "The laminated padlock",
+      "who": "Harry Soref",
+      "where": "Milwaukee, Wisconsin",
+      "country": "United States",
+      "text": "Harry Soref, a travelling locksmith, built a padlock body from stacked steel plates riveted together, like a bank vault door. He co-founded Master Lock in 1921 with five employees, and the design was patented in 1924.",
+      "why": "It made a tough padlock cheap enough for everyone.",
+      "box": "bolt",
+      "sources": [
+        18,
+        3
+      ]
+    },
+    {
+      "year": 1923,
+      "date": "1920 to 1923",
+      "era": "factory",
+      "art": "window",
+      "title": "The lock inside the knob",
+      "who": "Walter Schlage",
+      "where": "San Francisco, California",
+      "country": "United States",
+      "text": "Walter Schlage founded his company in 1920 and worked through a series of patents towards a lock that fits in two round holes bored in the door. The design filed in 1923 was sold as the Schlage A series.",
+      "why": "Quick to fit, the cylindrical lock became the standard for house doors in North America.",
+      "sources": [
+        19
+      ]
+    },
+    {
+      "year": 1954,
+      "date": "1954",
+      "era": "factory",
+      "art": "block",
+      "title": "The Navtal",
+      "who": "Godrej and Boyce",
+      "where": "Bombay (now Mumbai)",
+      "country": "India",
+      "text": "Godrej introduced the Navtal padlock in 1954, first in a square shape and from 1958 in a round one. It became the lock on countless Indian doors, shutters and trunks, and was widely imitated.",
+      "why": "In much of India, the Navtal became the picture that comes to mind for the word lock.",
+      "sources": [
+        21,
+        41
+      ]
+    },
+    {
+      "year": 1968,
+      "date": "1968",
+      "era": "electronic",
+      "art": "wrench",
+      "title": "Pins that must also twist",
+      "who": "Roy Spain and Medeco",
+      "where": "Roanoke County, Virginia",
+      "country": "United States",
+      "text": "Medeco was founded to make a cylinder in which each pin must be lifted to the right height and also turned to the right angle by slanted cuts in the key, before a side bar can move.",
+      "why": "High-security cylinders now check the key in more than one way at once.",
+      "box": "combos",
+      "sources": [
+        26
+      ]
+    },
+    {
+      "year": 1975,
+      "date": "1975",
+      "era": "electronic",
+      "art": "building",
+      "key": true,
+      "title": "The hotel key card",
+      "who": "Tor Sørnes",
+      "where": "Norway",
+      "country": "Norway",
+      "text": "After a guest was attacked in an American hotel room in 1974, the Norwegian engineer Tor Sørnes designed a lock opened by a plastic card with a pattern of holes: 32 positions, about 4.2 billion patterns. The hotel could give every new guest a fresh code. It was first exported in 1978, to the Peachtree Plaza Hotel in Atlanta.",
+      "why": "A lost key no longer meant changing the lock.",
+      "box": "nokey",
+      "sources": [
+        27,
+        28
+      ]
+    },
+    {
+      "year": 1982,
+      "date": "1982",
+      "era": "electronic",
+      "art": "car",
+      "title": "A car that unlocks by remote",
+      "who": "Paul Lipschutz and Renault",
+      "where": "France",
+      "country": "France",
+      "text": "Paul Lipschutz patented remote keyless entry in 1981, using an infrared beam from a hand-held fob. The Renault Fuego of 1982 was the first production car to have it. Later systems moved to radio and to codes that change with every press.",
+      "why": "The key became a transmitter.",
+      "sources": [
+        29
+      ]
+    },
+    {
+      "year": 1992,
+      "date": "1992",
+      "era": "electronic",
+      "art": "computer",
+      "title": "A lock slot for laptops",
+      "who": "Kensington",
+      "where": "United States",
+      "country": "United States",
+      "text": "Kensington introduced a small reinforced slot, 7 mm by 3 mm, into which a cable lock can anchor. For many years it was built into about 95 percent of laptops.",
+      "why": "Portable computers needed something a cable could hold on to.",
+      "sources": [
+        30
+      ]
+    },
+    {
+      "year": 1994,
+      "date": "1994",
+      "era": "electronic",
+      "art": "chip",
+      "title": "A key that is a radio chip",
+      "who": "Mikron (later part of NXP)",
+      "where": "Gratkorn",
+      "country": "Austria",
+      "text": "The MIFARE Classic contactless chip was introduced in 1994. It works at 13.56 MHz, powered by the reader's own radio field, and went on to be used in billions of transit tickets, office badges and hotel key cards.",
+      "why": "Tapping a card became the everyday way to open a door at work.",
+      "box": "nokey",
+      "sources": [
+        31,
+        28
+      ]
+    },
+    {
+      "year": 2013,
+      "date": "2013",
+      "era": "electronic",
+      "art": "phone",
+      "key": true,
+      "title": "The phone becomes the key",
+      "who": "August, Kwikset and UniKey, Lockitron",
+      "where": "United States",
+      "country": "United States",
+      "text": "Phone-controlled door locks reached ordinary homes. Lockitron had shown an early one in 2011. In 2013 August announced its Bluetooth smart lock, and Kwikset's Kevo deadbolt, which opened at a touch when the owner's phone was near, began shipping in October.",
+      "why": "A lock could now be opened, shared and checked from a phone.",
+      "box": "nokey",
+      "sources": [
+        32,
+        33,
+        34,
+        40
+      ]
+    },
+    {
+      "year": 2019,
+      "date": "29 August 2019",
+      "era": "electronic",
+      "art": "trophy",
+      "title": "Dindigul and Aligarh locks win GI tags",
+      "who": "Lock-makers of Dindigul and Aligarh",
+      "where": "Tamil Nadu and Uttar Pradesh",
+      "country": "India",
+      "text": "India's Geographical Indications Registry issued a certificate for the hand-made Dindigul lock on 29 August 2019. The Aligarh lock (Aligarh Tala) followed on 31 March 2023. Both crafts are under pressure from cheap machine-made locks.",
+      "why": "The tag protects the names of two hand crafts that once locked most of India's doors.",
+      "box": "others",
+      "sources": [
+        25,
+        23,
+        24
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Oldest known pin lock found",
+      "value": "c. 721–705 BCE",
+      "who": "Palace of Sargon II, Khorsabad, Iraq"
+    },
+    {
+      "label": "Lock that measures the key (lever tumbler)",
+      "value": "1778",
+      "who": "Robert Barron, England"
+    },
+    {
+      "label": "Lock that shows it was tampered with",
+      "value": "1818",
+      "who": "Jeremiah Chubb, England"
+    },
+    {
+      "label": "Patent for a modern pin-tumbler lock",
+      "value": "1844",
+      "who": "Linus Yale Sr., United States"
+    },
+    {
+      "label": "Time lock on a bank vault",
+      "value": "1874",
+      "who": "James Sargent, Morrison, Illinois"
+    },
+    {
+      "label": "Godrej lock made",
+      "value": "1897",
+      "who": "Ardeshir Godrej, Bombay"
+    },
+    {
+      "label": "Recodable hotel key card",
+      "value": "1975",
+      "who": "Tor Sørnes, Norway"
+    },
+    {
+      "label": "Production car with remote keyless entry",
+      "value": "1982",
+      "who": "Renault Fuego, France"
+    }
+  ],
+  "people": [
+    {
+      "name": "Ismail al-Jazari",
+      "life": "1136 – 1206",
+      "role": "Engineer",
+      "from": "Upper Mesopotamia",
+      "note": "Described a combination lock in his 1206 book of ingenious devices."
+    },
+    {
+      "name": "Robert Barron",
+      "life": "active 1778",
+      "role": "Locksmith",
+      "from": "England",
+      "note": "Patented the double-acting lever tumbler in 1778."
+    },
+    {
+      "name": "Joseph Bramah",
+      "life": "1748 – 1814",
+      "role": "Inventor",
+      "from": "England",
+      "note": "Made the Challenge Lock that stood unbeaten for over sixty years."
+    },
+    {
+      "name": "Jeremiah Chubb",
+      "life": "active 1818 – 1840s",
+      "role": "Ironmonger and inventor",
+      "from": "England",
+      "note": "Invented the detector lock, which jams when someone tampers with it."
+    },
+    {
+      "name": "Alfred Charles Hobbs",
+      "life": "1812 – 1891",
+      "role": "Locksmith",
+      "from": "United States",
+      "note": "Opened both the Chubb and the Bramah locks in London in 1851."
+    },
+    {
+      "name": "Linus Yale Sr.",
+      "life": "1797 – 1858",
+      "role": "Bank-lock maker",
+      "from": "United States",
+      "note": "Patented a pin-tumbler lock in 1844."
+    },
+    {
+      "name": "Linus Yale Jr.",
+      "life": "1821 – 1868",
+      "role": "Inventor, once a portrait painter",
+      "from": "United States",
+      "note": "Gave the pin tumbler its cylinder and its small flat key."
+    },
+    {
+      "name": "James Sargent",
+      "life": "1824 – 1910",
+      "role": "Lock maker",
+      "from": "United States",
+      "note": "Made the key-changeable combination lock and the bank time lock."
+    },
+    {
+      "name": "Ardeshir Godrej",
+      "life": "1868 – 1936",
+      "role": "Lawyer turned manufacturer",
+      "from": "India",
+      "note": "Began making locks in Bombay in 1897 and patented a springless lock."
+    },
+    {
+      "name": "Emil Henriksson",
+      "life": "active 1907 – 1918",
+      "role": "Mechanic",
+      "from": "Finland",
+      "note": "Invented the disc-detainer lock sold as Abloy."
+    },
+    {
+      "name": "Harry Soref",
+      "life": "1887 – 1957",
+      "role": "Locksmith",
+      "from": "United States",
+      "note": "Invented the laminated steel padlock and co-founded Master Lock."
+    },
+    {
+      "name": "Tor Sørnes",
+      "life": "1925 – 2017",
+      "role": "Engineer",
+      "from": "Norway",
+      "note": "Invented the recodable key-card lock for hotels."
+    }
+  ],
+  "series": [],
+  "facts": [
+    "Roman keys were often worn as finger rings, because Roman clothes had no pockets.",
+    "Bramah's Challenge Lock sat in a London shop window from 1790, offering 200 guineas, and was not opened until 1851.",
+    "Linus Yale Jr., who gave us the flat door key, started out as a portrait painter.",
+    "In 1851 the Chubb firm built the secure display case for the Koh-i-Noor diamond at the Great Exhibition, the same summer one of its locks was opened in public.",
+    "The first hotel key card had 32 hole positions, which gives about 4.2 billion different cards."
+  ],
+  "sources": [
+    {
+      "title": "Lock and key",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lock_and_key"
+    },
+    {
+      "title": "Pin tumbler lock",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pin_tumbler_lock"
+    },
+    {
+      "title": "Warded lock",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Warded_lock"
+    },
+    {
+      "title": "Padlock",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Padlock"
+    },
+    {
+      "title": "Combination lock",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Combination_lock"
+    },
+    {
+      "title": "Ismail al-Jazari",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Al-Jazari"
+    },
+    {
+      "title": "Lever tumbler lock",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lever_tumbler_lock"
+    },
+    {
+      "title": "Robert Barron (locksmith)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Robert_Barron_(locksmith)"
+    },
+    {
+      "title": "Joseph Bramah",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Joseph_Bramah"
+    },
+    {
+      "title": "Chubb detector lock",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chubb_detector_lock"
+    },
+    {
+      "title": "Chubb Locks",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chubb_Locks"
+    },
+    {
+      "title": "Alfred Charles Hobbs",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Alfred_Charles_Hobbs"
+    },
+    {
+      "title": "Linus Yale Sr.",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Linus_Yale_Sr."
+    },
+    {
+      "title": "Linus Yale Jr.",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Linus_Yale_Jr."
+    },
+    {
+      "title": "James Sargent",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/James_Sargent"
+    },
+    {
+      "title": "About Sargent and Greenleaf",
+      "publisher": "Sargent and Greenleaf",
+      "url": "https://sargentandgreenleaf.com/about/"
+    },
+    {
+      "title": "Wafer tumbler lock",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wafer_tumbler_lock"
+    },
+    {
+      "title": "Disc tumbler lock",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Disc_tumbler_lock"
+    },
+    {
+      "title": "Master Lock",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Master_Lock"
+    },
+    {
+      "title": "Schlage",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Schlage"
+    },
+    {
+      "title": "Ardeshir Godrej",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ardeshir_Godrej"
+    },
+    {
+      "title": "Artefacts from the Godrej Archives",
+      "publisher": "PrintWeek India",
+      "url": "https://www.printweek.in/features/artefacts-from-the-godrej-archives-54442"
+    },
+    {
+      "title": "Aligarh and its lock industry",
+      "publisher": "Rana Safvi",
+      "url": "https://ranasafvi.com/aligarh-and-its-lock-industry/"
+    },
+    {
+      "title": "Aligarh Tala, GI application 664",
+      "publisher": "Geographical Indications Registry, Government of India",
+      "url": "https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/664"
+    },
+    {
+      "title": "Dindigul's unique locks: unlocking the history of a specialty craft",
+      "publisher": "The News Minute",
+      "url": "https://www.thenewsminute.com/tamil-nadu/dindigul-s-unique-locks-unlocking-history-specialty-craft-110277"
+    },
+    {
+      "title": "GI tag for Dindigul lock, Kandangi sari",
+      "publisher": "Deccan Chronicle",
+      "url": "https://deccanchronicle.com/nation/current-affairs/290819/gi-tag-for-dindigul-lock-kandangi-sari.html"
+    },
+    {
+      "title": "Medeco",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Medeco"
+    },
+    {
+      "title": "Tor Sørnes",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tor_S%C3%B8rnes"
+    },
+    {
+      "title": "Keycard lock",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Keycard_lock"
+    },
+    {
+      "title": "Remote keyless system",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Remote_keyless_system"
+    },
+    {
+      "title": "Kensington Security Slot",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kensington_Security_Slot"
+    },
+    {
+      "title": "MIFARE",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/MIFARE"
+    },
+    {
+      "title": "August Home",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/August_Home"
+    },
+    {
+      "title": "Kwikset's Kevo smart lock turns your smartphone into a key",
+      "publisher": "Kwikset",
+      "url": "https://www.kwikset.com/about-kwikset/news-press/press-releases/2013/10/29/kwikset-s-kevo-smart-lock-turns-your-smartphone-into-a-key"
+    },
+    {
+      "title": "Lockitron",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lockitron"
+    },
+    {
+      "title": "Key ring, museum number 1900,0723.1",
+      "publisher": "British Museum",
+      "url": "https://www.britishmuseum.org/collection/object/G_1900-0723-1"
+    },
+    {
+      "title": "The Ancient Art of the Locksmith",
+      "publisher": "Building Conservation Directory",
+      "url": "https://buildingconservation.com/articles/locks/locks.htm"
+    },
+    {
+      "title": "Henry Cole and the Koh-i-Noor Diamond",
+      "publisher": "Victoria and Albert Museum",
+      "url": "https://www.vam.ac.uk/blog/caring-for-our-collections/henry-cole-and-the-koh-i-noor-diamond"
+    },
+    {
+      "title": "A Brief History of Sargent and Greenleaf on its 150th Anniversary",
+      "publisher": "Locksmith Ledger",
+      "url": "https://www.locksmithledger.com/locks/padlocks-high-security/article/10229715/a-brief-history-of-sargent-greenleaf-on-its-150th-anniversary"
+    },
+    {
+      "title": "The Man Who Picked Victorian London's Unpickable Lock",
+      "publisher": "Mental Floss",
+      "url": "https://www.mentalfloss.com/history/man-who-picked-victorian-londons-unpickable-lock"
+    },
+    {
+      "title": "Smart lock",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Smart_lock"
+    },
+    {
+      "title": "Godrej Locks and Security Solutions",
+      "publisher": "Godrej Enterprises Group",
+      "url": "https://godrejenterprises.com/godrej-locks-and-security-solutions"
+    }
+  ]
+}
